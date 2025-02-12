@@ -13,23 +13,23 @@ Features
 
 Prerequisites
 
-- Linux system with kernel headers installed
-- Basic knowledge of compiling kernel modules
+`- Linux system with kernel headers installed`
+`- Basic knowledge of compiling kernel modules`
 
 Compilation :
- Makefile
+ Makefile - `make`
 
 Load the module:
 
-sudo insmod hmain.ko
+`sudo insmod main.ko`
 
 Check kernel logs:
 
-dmesg | tail
+`dmesg | tail`
 
 Remove the module:
 
-sudo rmmod hello
+`sudo rmmod main.ko`
 
 
   
