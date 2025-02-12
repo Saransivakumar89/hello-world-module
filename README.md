@@ -13,8 +13,8 @@ Features
 
 Prerequisites
 
-`- Linux system with kernel headers installed`
-`- Basic knowledge of compiling kernel modules`
+`Linux system with kernel headers installed`
+`Basic knowledge of compiling kernel modules`
 
 Compilation :
  Makefile - `make`
